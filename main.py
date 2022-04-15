@@ -1,8 +1,8 @@
+import time
+import numpy as np
+import cv2
 
 def main():
-    import time
-    import numpy as np
-    import cv2
 
     #videocapture object
     cap = cv2.VideoCapture("Question 3\DS-IQ-003-PixelVariation-Video.mp4")
